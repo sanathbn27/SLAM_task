@@ -29,7 +29,7 @@ pip install opencv numpy
 
 
 ## 🏗️ Project Structure
-
+```
 SLAM_TASK//
 │
 ├── src/
@@ -40,7 +40,7 @@ SLAM_TASK//
 │   ├── floor_plan_JSON/        # Folder for saving the floor plan data (JSON)
 │
 ├── README.md                   # Documentation file (you are reading this!)
-
+```
 ## How to Run the Code
 
 1. **Run the script:**
